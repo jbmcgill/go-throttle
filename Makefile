@@ -1,2 +1,2 @@
 test:
-	go test src/*.go
+	go test *.go
